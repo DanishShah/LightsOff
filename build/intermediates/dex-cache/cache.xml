@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.2.0_9917320e42ef69391583272a8d48120113bcdbab.jar" />
+    </item>
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.2.0_136452fa28523a6a9e9021fdf7d648d9875923fc.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\SDK\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\support-annotations-23.2.0_8fe2c03ba9765a22e332a2cbcb854cb0582762c8.jar" />
+    </item>
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\com.android.support-design-23.2.0_a2d517b78fe06dbaeb7d6f4436c8e5ad5f3fcd4f.jar" />
+    </item>
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.2.0_32d1b3e1794feeb6ce100cc3114abf6631fd57e0.jar" />
+    </item>
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\internal_impl-23.2.0_3e03b3127ebe76069270151c7bf2723b8fce9c31.jar" />
+    </item>
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.2.0_4ae64aa6fd77c2bceb6d76b0c30104ad6b32ea85.jar" />
+    </item>
+    <item
+        jar="E:\AS Project\LightsOff\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\AS Project\LightsOff\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.2.0_9feb720203fa1d9d9b480f3b024805e1c0dc94ad.jar" />
+    </item>
+
+</items>

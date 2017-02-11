@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\title.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\title.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\light_off.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\light_off.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\mask_circle.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\mask_circle.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\how_to.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\how_to.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\board_5.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\board_5.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\reset.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\reset.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\board_4.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\board_4.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\light_on.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\light_on.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\light_soln.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\light_soln.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\board_3.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\board_3.png"
+    },
+    {
+        "merged": "E:\\AS Project\\LightsOff\\app\\build\\intermediates\\res\\merged\\release\\drawable\\soln.png",
+        "source": "E:\\AS Project\\LightsOff\\app\\src\\main\\res\\drawable\\soln.png"
+    }
+]
